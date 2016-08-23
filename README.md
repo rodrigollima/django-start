@@ -1,6 +1,7 @@
 # django-start
 
 APP_NAME='eventex'
+
 PROJECT_SOURCE='wttd'
 
 mkdir $PROJECT_SOURCE
