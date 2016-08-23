@@ -17,3 +17,5 @@ pip install django
 
 django-admin startproject $APP_NAME .
 
+cd $APP_NAME
+
