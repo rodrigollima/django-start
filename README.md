@@ -20,4 +20,4 @@ django-admin startproject $APP_NAME .
 
 cd $APP_NAME
 
-alias manage='python $VIRTUAL_ENV/../$PROJECT_SOURCE/manage.py'
+alias manage='python $VIRTUAL_ENV/../../$PROJECT_SOURCE/manage.py'
